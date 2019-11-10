@@ -16983,7 +16983,7 @@ readers do not read off random characters that represent icons */
   color: #5fbb7e;
 }
 
-.counters .status.answered-accepted {
+.counters .status.answer-accepted {
   background: #5fbb7e;
   color: #fff;
 }
