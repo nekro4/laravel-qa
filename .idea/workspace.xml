@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34483335-b85b-448f-83b3-74153c8d5014" name="Default Changelist" comment="">
+    <list default="true" id="9503dfaf-300b-4a03-bc67-30bb8ade8242" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Answer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Answer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/answers/_index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/answers/_index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_05_110417_create_questions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_11_05_110417_create_questions_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_07_164806_create_answers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_11_07_164806_create_answers_table.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
